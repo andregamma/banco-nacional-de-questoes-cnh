@@ -3,8 +3,8 @@ from pypdf import PdfReader
 # Cria o arquivo de texto para armazenar o conteúdo extraído
 final_txt = open("extracted_text.txt", "w", encoding="utf-8")
 
-print(f"Realizando leitura do arquivo único")
-reader = PdfReader(f"Banco Nacional de Questões.pdf")
+print("Realizando leitura do arquivo único")
+reader = PdfReader("Banco Nacional de Questões.pdf")
 
 ## Verifica quantidade de páginas
 pages_count = len(reader.pages)
