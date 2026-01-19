@@ -41,7 +41,7 @@ for line in extracted_txt:
       "answers": []
     })
   
-  question_index = next((index for (index, d) in enumerate(questions["modules"][module_number]["questions"]) if d["title"] == question_title), None)
+  question_index = next((index for (index, d) in enumerate(questions["modules"][module_number]["questions"]) if d["title"] == question_title and d["number"] == question_number and d["difficulty"] == question_difficulty), None)
 
   if line.startswith("Código da placa:"):
     ## Exemplo de código da placa: Código da placa: ABX-1234

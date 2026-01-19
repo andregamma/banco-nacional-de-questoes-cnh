@@ -918,74 +918,10 @@
             {
               "text": "Que há obras à frente.",
               "is_correct": false
-            },
-            {
-              "text": "Que existe um cruzamento à frente, onde podem vir carros dos dois lados.",
-              "is_correct": true
-            },
-            {
-              "text": "Que a via é sem saída.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma lombada à frente.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é obrigatório virar à direita.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há duas entradas ou saídas próximas, uma à esquerda e outra à direita.",
-              "is_correct": true
-            },
-            {
-              "text": "Que existe um semáforo à frente.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma lombada dupla.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é proibido virar à esquerda.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma parada obrigatória mais à frente.",
-              "is_correct": true
-            },
-            {
-              "text": "Que o motorista deve seguir sem parar.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há um posto policial.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é o fim da pista.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma via entrando pela esquerda.",
-              "is_correct": true
-            },
-            {
-              "text": "Que a pista é de mão dupla.",
-              "is_correct": false
-            },
-            {
-              "text": "Que existe uma lombada.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é proibido virar à esquerda.",
-              "is_correct": false
             }
           ],
-          "sign_code_ref": "A-7a",
-          "explanation": "A placa indica que outra via se junta à estrada principal pela esquerda."
+          "sign_code_ref": "A-17",
+          "explanation": "A placa alerta sobre buracos, remendos ou deformações na via."
         },
         {
           "title": "O que indica a placa acima - Cruz de Santo André?",
@@ -1032,7 +968,16 @@
             {
               "text": "A preferência de pedestres.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "R-33",
+          "explanation": "O símbolo de setas circulares indica o sentido único que todos os veículos devem seguir na"
+        },
+        {
+          "title": "O que indica a placa acima?",
+          "difficulty": "Intermediário",
+          "number": 41,
+          "answers": [
             {
               "text": "Que pedestres e ciclistas devem compartilhar o mesmo espaço com atenção e respeito",
               "is_correct": true
@@ -1048,336 +993,10 @@
             {
               "text": "Que pedestres devem usar bicicletas para passar.",
               "is_correct": false
-            },
-            {
-              "text": "Circulação exclusiva de bicicletas.",
-              "is_correct": true
-            },
-            {
-              "text": "Proibição de circulação de bicicletas.",
-              "is_correct": false
-            },
-            {
-              "text": "Faixa compartilhada entre carros e bicicletas.",
-              "is_correct": false
-            },
-            {
-              "text": "Proibição de pedestres.",
-              "is_correct": false
-            },
-            {
-              "text": "O condutor deve seguir em frente ou virar à direita.",
-              "is_correct": true
-            },
-            {
-              "text": "O condutor deve virar à esquerda.",
-              "is_correct": false
-            },
-            {
-              "text": "É proibido estacionar.",
-              "is_correct": false
-            },
-            {
-              "text": "Deve realizar retorno.",
-              "is_correct": false
-            },
-            {
-              "text": "Obrigação de seguir em frente.",
-              "is_correct": true
-            },
-            {
-              "text": "Obrigação de virar à direita.",
-              "is_correct": false
-            },
-            {
-              "text": "Proibição de seguir em frente.",
-              "is_correct": false
-            },
-            {
-              "text": "Permissão para retorno.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a circulação é exclusiva para caminhões.",
-              "is_correct": true
-            },
-            {
-              "text": "Que caminhões estão proibidos de circular.",
-              "is_correct": false
-            },
-            {
-              "text": "Que ônibus e caminhões compartilham a faixa.",
-              "is_correct": false
-            },
-            {
-              "text": "Que apenas veículos leves podem trafegar.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via ou faixa é de circulação exclusiva de ônibus.",
-              "is_correct": true
-            },
-            {
-              "text": "Que o estacionamento é permitido a ônibus.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é proibido o trânsito de ônibus.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é ponto de parada de ônibus.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via passa a ter duplo sentido de circulação.",
-              "is_correct": true
-            },
-            {
-              "text": "Que há mão única à direita.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o sentido é obrigatório para frente.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via é exclusiva para ônibus.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via passará a ter duas pistas separadas por canteiro central.",
-              "is_correct": true
-            },
-            {
-              "text": "Que a via terá apenas uma faixa estreita.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há obras no local.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o trânsito será interrompido.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via passará a ter separação física dividindo os fluxos de mesmo sentido de",
-              "is_correct": true
-            },
-            {
-              "text": "Que há um desvio temporário.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via termina adiante.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há um cruzamento sem sinalização.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via termina adiante e não possui saída para outra rua.",
-              "is_correct": true
-            },
-            {
-              "text": "Que há um cruzamento logo à frente.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o trânsito é de mão dupla.",
-              "is_correct": false
-            },
-            {
-              "text": "Que existe um pedágio adiante.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a via voltará a ter mão dupla, sem separação física entre os sentidos.",
-              "is_correct": true
-            },
-            {
-              "text": "Que há início de túnel.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o trânsito será interrompido.",
-              "is_correct": false
-            },
-            {
-              "text": "Que haverá pedágio adiante.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é proibida a circulação de motocicletas, motonetas e ciclomotores.",
-              "is_correct": true
-            },
-            {
-              "text": "Que é obrigatória a circulação de motocicletas.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é permitida a circulação de bicicletas.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é exclusivo para caminhões.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é proibida a circulação de ônibus.",
-              "is_correct": true
-            },
-            {
-              "text": "Que a via é exclusiva para ônibus.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é obrigatório o transporte coletivo.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é permitido o trânsito apenas de caminhões.",
-              "is_correct": false
-            },
-            {
-              "text": "Que existe cruzamento com linha férrea à frente, protegido por cancelas.",
-              "is_correct": true
-            },
-            {
-              "text": "Que há um pedágio na via.",
-              "is_correct": false
-            },
-            {
-              "text": "Que a pista está bloqueada por obras.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o trânsito é exclusivo para trens.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há um cruzamento entre a pista e uma linha de trem, sem cancelas de proteção.",
-              "is_correct": true
-            },
-            {
-              "text": "Que a via está interditada para veículos.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há um posto policial à frente.",
-              "is_correct": false
-            },
-            {
-              "text": "Que existe uma ponte com pedágio.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma curva à direita à frente.",
-              "is_correct": true
-            },
-            {
-              "text": "Que o retorno é obrigatório.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma interseção em “T”.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma curva acentuada à esquerda.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma curva acentuada à esquerda à frente.",
-              "is_correct": true
-            },
-            {
-              "text": "Que há uma conversão obrigatória à esquerda.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é permitido o retorno.",
-              "is_correct": false
-            },
-            {
-              "text": "Que há uma interseção em “T”.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o pedestre deve andar pela direita da via.",
-              "is_correct": true
-            },
-            {
-              "text": "Que o pedestre pode atravessar livremente.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o pedestre deve permanecer parado.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o pedestre deve andar pela esquerda.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o pedestre deve andar pela esquerda da via.",
-              "is_correct": true
-            },
-            {
-              "text": "Que o pedestre deve atravessar a rua.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o pedestre deve permanecer parado.",
-              "is_correct": false
-            },
-            {
-              "text": "Que é proibido andar a pé.",
-              "is_correct": false
-            },
-            {
-              "text": "Que ônibus e caminhões devem manter-se na faixa da direita.",
-              "is_correct": true
-            },
-            {
-              "text": "Que todos os veículos devem estacionar.",
-              "is_correct": false
-            },
-            {
-              "text": "Que veículos leves devem trafegar na direita.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o trânsito é exclusivo para caminhões.",
-              "is_correct": false
-            },
-            {
-              "text": "Que os pedestres devem circular à esquerda e os ciclistas à direita.",
-              "is_correct": true
-            },
-            {
-              "text": "Que a via é exclusiva para pedestres.",
-              "is_correct": false
-            },
-            {
-              "text": "Que os ciclistas devem ocupar todo o espaço.",
-              "is_correct": false
-            },
-            {
-              "text": "Que o trânsito é proibido para bicicletas.",
-              "is_correct": false
             }
           ],
-          "sign_code_ref": "R-35",
-          "explanation": "A linha vertical indica a separação obrigatória entre pedestres e ciclistas."
-        },
-        {
-          "title": "O que indica a placa acima?",
-          "difficulty": "Intermediário",
-          "number": 41,
-          "answers": []
+          "sign_code_ref": "R-44",
+          "explanation": "Essa placa indica convivência entre pedestres e ciclistas."
         },
         {
           "title": "O que o motorista deve fazer ao ver essa placa?",
@@ -2473,7 +2092,16 @@
             {
               "text": "O condutor deve parar.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "R-25c",
+          "explanation": "As duas setas indicam as únicas manobras permitidas — seguir ou virar à esquerda."
+        },
+        {
+          "title": "O que a placa acima indica?",
+          "difficulty": "Fácil",
+          "number": 86,
+          "answers": [
             {
               "text": "Que a via termina à frente e o motorista deve virar à direita ou à esquerda.",
               "is_correct": true
@@ -2493,12 +2121,6 @@
           ],
           "sign_code_ref": "A-8",
           "explanation": "A placa adverte sobre o fim da via e a necessidade de conversão."
-        },
-        {
-          "title": "O que a placa acima indica?",
-          "difficulty": "Fácil",
-          "number": 86,
-          "answers": []
         },
         {
           "title": "O que a placa acima pretende evitar?",
@@ -2554,25 +2176,101 @@
           "title": "O que essa placa está avisando?",
           "difficulty": "Fácil",
           "number": 89,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que existe um cruzamento à frente, onde podem vir carros dos dois lados.",
+              "is_correct": true
+            },
+            {
+              "text": "Que a via é sem saída.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há uma lombada à frente.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é obrigatório virar à direita.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-6",
+          "explanation": "Essa placa alerta para o encontro de duas vias, exigindo cuidado e redução de velocidade."
         },
         {
           "title": "O que essa placa está avisando?",
           "difficulty": "Fácil",
           "number": 90,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que há duas entradas ou saídas próximas, uma à esquerda e outra à direita.",
+              "is_correct": true
+            },
+            {
+              "text": "Que existe um semáforo à frente.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há uma lombada dupla.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é proibido virar à esquerda.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-11a",
+          "explanation": "A placa indica junções próximas em sentidos opostos, exigindo cuidado."
         },
         {
           "title": "O que essa placa está avisando?",
           "difficulty": "Fácil",
           "number": 91,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que há uma parada obrigatória mais à frente.",
+              "is_correct": true
+            },
+            {
+              "text": "Que o motorista deve seguir sem parar.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há um posto policial.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é o fim da pista.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-15",
+          "explanation": "Essa placa prepara o condutor para parar completamente adiante."
         },
         {
           "title": "O que essa placa está avisando?",
           "difficulty": "Fácil",
           "number": 92,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que há uma via entrando pela esquerda.",
+              "is_correct": true
+            },
+            {
+              "text": "Que a pista é de mão dupla.",
+              "is_correct": false
+            },
+            {
+              "text": "Que existe uma lombada.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é proibido virar à esquerda.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-7a",
+          "explanation": "A placa indica que outra via se junta à estrada principal pela esquerda."
         },
         {
           "title": "O que essa placa indica ao condutor?",
@@ -2594,7 +2292,16 @@
             {
               "text": "Que o pavimento é novo.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "A-19",
+          "explanation": "A placa alerta para um rebaixamento que pode causar impacto na suspensão do veículo."
+        },
+        {
+          "title": "O que essa placa indica ao condutor?",
+          "difficulty": "Fácil",
+          "number": 94,
+          "answers": [
             {
               "text": "Que há uma rotatória à frente.",
               "is_correct": true
@@ -2610,7 +2317,16 @@
             {
               "text": "Que há um quebra-molas.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "A-12",
+          "explanation": "A placa adverte que o condutor se aproxima de uma interseção circular (rotatória)."
+        },
+        {
+          "title": "O que essa placa indica ao condutor?",
+          "difficulty": "Fácil",
+          "number": 95,
+          "answers": [
             {
               "text": "Que há uma subida forte à frente.",
               "is_correct": true
@@ -2632,18 +2348,6 @@
           "explanation": "A placa alerta sobre um trecho de aclive, ou seja, uma subida íngreme."
         },
         {
-          "title": "O que essa placa indica ao condutor?",
-          "difficulty": "Fácil",
-          "number": 94,
-          "answers": []
-        },
-        {
-          "title": "O que essa placa indica ao condutor?",
-          "difficulty": "Fácil",
-          "number": 95,
-          "answers": []
-        },
-        {
           "title": "O que essa placa indica?",
           "difficulty": "Fácil",
           "number": 96,
@@ -2663,7 +2367,16 @@
             {
               "text": "Que a via termina logo adiante.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "A-9",
+          "explanation": "A placa alerta que a estrada se divide e o condutor deve decidir o sentido com antecedência."
+        },
+        {
+          "title": "O que essa placa indica?",
+          "difficulty": "Fácil",
+          "number": 97,
+          "answers": [
             {
               "text": "Que há um semáforo à frente.",
               "is_correct": true
@@ -2679,7 +2392,16 @@
             {
               "text": "Que é permitido ultrapassar.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "A-14",
+          "explanation": "A placa alerta que o condutor se aproxima de um cruzamento com controle de semáforo."
+        },
+        {
+          "title": "O que essa placa indica?",
+          "difficulty": "Fácil",
+          "number": 98,
+          "answers": [
             {
               "text": "Que há uma lombada ou saliência na pista à frente.",
               "is_correct": true
@@ -2699,18 +2421,6 @@
           ],
           "sign_code_ref": "A-18",
           "explanation": "A placa alerta o motorista sobre a presença de uma elevação na pista."
-        },
-        {
-          "title": "O que essa placa indica?",
-          "difficulty": "Fácil",
-          "number": 97,
-          "answers": []
-        },
-        {
-          "title": "O que essa placa indica?",
-          "difficulty": "Fácil",
-          "number": 98,
-          "answers": []
         },
         {
           "title": "O que essa placa quer dizer para o motorista?",
@@ -2782,7 +2492,16 @@
             {
               "text": "Que é proibido o trânsito de veículos grandes.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "A-31",
+          "explanation": "O símbolo do trator indica possível presença de veículos agrícolas lentos."
+        },
+        {
+          "title": "O que esta placa indica?",
+          "difficulty": "Fácil",
+          "number": 102,
+          "answers": [
             {
               "text": "Que há pedestres circulando ou atravessando a via.",
               "is_correct": true
@@ -2804,130 +2523,504 @@
           "explanation": "A placa alerta o condutor sobre a presença frequente de pedestres na pista."
         },
         {
-          "title": "O que esta placa indica?",
-          "difficulty": "Fácil",
-          "number": 102,
-          "answers": []
-        },
-        {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 103,
-          "answers": []
+          "answers": [
+            {
+              "text": "Circulação exclusiva de bicicletas.",
+              "is_correct": true
+            },
+            {
+              "text": "Proibição de circulação de bicicletas.",
+              "is_correct": false
+            },
+            {
+              "text": "Faixa compartilhada entre carros e bicicletas.",
+              "is_correct": false
+            },
+            {
+              "text": "Proibição de pedestres.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-34",
+          "explanation": "A placa R-34 garante o uso exclusivo da via ou faixa aos ciclistas."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 104,
-          "answers": []
+          "answers": [
+            {
+              "text": "O condutor deve seguir em frente ou virar à direita.",
+              "is_correct": true
+            },
+            {
+              "text": "O condutor deve virar à esquerda.",
+              "is_correct": false
+            },
+            {
+              "text": "É proibido estacionar.",
+              "is_correct": false
+            },
+            {
+              "text": "Deve realizar retorno.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-25d",
+          "explanation": "As duas setas indicam que apenas essas direções são permitidas."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 105,
-          "answers": []
+          "answers": [
+            {
+              "text": "Obrigação de seguir em frente.",
+              "is_correct": true
+            },
+            {
+              "text": "Obrigação de virar à direita.",
+              "is_correct": false
+            },
+            {
+              "text": "Proibição de seguir em frente.",
+              "is_correct": false
+            },
+            {
+              "text": "Permissão para retorno.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-26",
+          "explanation": "A seta única para cima representa movimento obrigatório no sentido indicado."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 106,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a circulação é exclusiva para caminhões.",
+              "is_correct": true
+            },
+            {
+              "text": "Que caminhões estão proibidos de circular.",
+              "is_correct": false
+            },
+            {
+              "text": "Que ônibus e caminhões compartilham a faixa.",
+              "is_correct": false
+            },
+            {
+              "text": "Que apenas veículos leves podem trafegar.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-39",
+          "explanation": "A placa autoriza e delimita o espaço exclusivo para caminhões."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 107,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a via ou faixa é de circulação exclusiva de ônibus.",
+              "is_correct": true
+            },
+            {
+              "text": "Que o estacionamento é permitido a ônibus.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é proibido o trânsito de ônibus.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é ponto de parada de ônibus.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-32",
+          "explanation": "A placa R-32 indica exclusividade de circulação, não parada ou estacionamento."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 108,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a via passa a ter duplo sentido de circulação.",
+              "is_correct": true
+            },
+            {
+              "text": "Que há mão única à direita.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o sentido é obrigatório para frente.",
+              "is_correct": false
+            },
+            {
+              "text": "Que a via é exclusiva para ônibus.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-28",
+          "explanation": "As duas setas em direções opostas representam tráfego nos dois sentidos."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 109,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a via passará a ter duas pistas separadas por canteiro central.",
+              "is_correct": true
+            },
+            {
+              "text": "Que a via terá apenas uma faixa estreita.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há obras no local.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o trânsito será interrompido.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-42a",
+          "explanation": "A placa adverte o motorista sobre o início de uma pista com separação física entre os sentidos."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 110,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a via passará a ter separação física dividindo os fluxos de mesmo sentido de",
+              "is_correct": true
+            },
+            {
+              "text": "Que há um desvio temporário.",
+              "is_correct": false
+            },
+            {
+              "text": "Que a via termina adiante.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há um cruzamento sem sinalização.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-42c",
+          "explanation": "A placa alerta para o início de separação da pista, aumentando a segurança e a fluidez do"
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 111,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a via termina adiante e não possui saída para outra rua.",
+              "is_correct": true
+            },
+            {
+              "text": "Que há um cruzamento logo à frente.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o trânsito é de mão dupla.",
+              "is_correct": false
+            },
+            {
+              "text": "Que existe um pedágio adiante.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-45",
+          "explanation": "A placa alerta o motorista de que a via termina, deve ser observada antes de entrar na rua."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 112,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que a via voltará a ter mão dupla, sem separação física entre os sentidos.",
+              "is_correct": true
+            },
+            {
+              "text": "Que há início de túnel.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o trânsito será interrompido.",
+              "is_correct": false
+            },
+            {
+              "text": "Que haverá pedágio adiante.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-42b",
+          "explanation": "A placa alerta para o término da divisão entre fluxos opostos, a atenção deve ser redobrada."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 113,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que é proibida a circulação de motocicletas, motonetas e ciclomotores.",
+              "is_correct": true
+            },
+            {
+              "text": "Que é obrigatória a circulação de motocicletas.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é permitida a circulação de bicicletas.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é exclusivo para caminhões.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-37",
+          "explanation": "Essa placa restringe completamente a entrada e circulação de veículos motorizados de duas"
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 114,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que é proibida a circulação de ônibus.",
+              "is_correct": true
+            },
+            {
+              "text": "Que a via é exclusiva para ônibus.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é obrigatório o transporte coletivo.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é permitido o trânsito apenas de caminhões.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-38",
+          "explanation": "A placa restringe o tráfego de ônibus no trecho sinalizado."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 115,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que existe cruzamento com linha férrea à frente, protegido por cancelas.",
+              "is_correct": true
+            },
+            {
+              "text": "Que há um pedágio na via.",
+              "is_correct": false
+            },
+            {
+              "text": "Que a pista está bloqueada por obras.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o trânsito é exclusivo para trens.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-40",
+          "explanation": "A placa alerta para cruzamento ferroviário onde há cancelas automáticas ou manuais."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 116,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que há um cruzamento entre a pista e uma linha de trem, sem cancelas de proteção.",
+              "is_correct": true
+            },
+            {
+              "text": "Que a via está interditada para veículos.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há um posto policial à frente.",
+              "is_correct": false
+            },
+            {
+              "text": "Que existe uma ponte com pedágio.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-39",
+          "explanation": "O motorista deve reduzir a velocidade, parar e verificar se há trem se aproximando."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 117,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que há uma curva à direita à frente.",
+              "is_correct": true
+            },
+            {
+              "text": "Que o retorno é obrigatório.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há uma interseção em “T”.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há uma curva acentuada à esquerda.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-2b",
+          "explanation": "A placa A-2b avisa o condutor sobre uma curva moderada à direita, exigindo atenção."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 118,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que há uma curva acentuada à esquerda à frente.",
+              "is_correct": true
+            },
+            {
+              "text": "Que há uma conversão obrigatória à esquerda.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é permitido o retorno.",
+              "is_correct": false
+            },
+            {
+              "text": "Que há uma interseção em “T”.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "A-1a",
+          "explanation": "A placa A-1a alerta sobre curva acentuada à esquerda e exige atenção redobrada."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 119,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que o pedestre deve andar pela direita da via.",
+              "is_correct": true
+            },
+            {
+              "text": "Que o pedestre pode atravessar livremente.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o pedestre deve permanecer parado.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o pedestre deve andar pela esquerda.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-31",
+          "explanation": "A seta indica o lado da via destinado à circulação do pedestre."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 120,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que o pedestre deve andar pela esquerda da via.",
+              "is_correct": true
+            },
+            {
+              "text": "Que o pedestre deve atravessar a rua.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o pedestre deve permanecer parado.",
+              "is_correct": false
+            },
+            {
+              "text": "Que é proibido andar a pé.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-30",
+          "explanation": "O pictograma indica a posição correta de circulação do pedestre no bordo da pista."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 121,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que ônibus e caminhões devem manter-se na faixa da direita.",
+              "is_correct": true
+            },
+            {
+              "text": "Que todos os veículos devem estacionar.",
+              "is_correct": false
+            },
+            {
+              "text": "Que veículos leves devem trafegar na direita.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o trânsito é exclusivo para caminhões.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-27",
+          "explanation": "Obriga veículos pesados a circularem na faixa da direita, garantindo fluidez e segurança."
         },
         {
           "title": "O que indica a placa acima?",
           "difficulty": "Fácil",
           "number": 122,
-          "answers": []
+          "answers": [
+            {
+              "text": "Que os pedestres devem circular à esquerda e os ciclistas à direita.",
+              "is_correct": true
+            },
+            {
+              "text": "Que a via é exclusiva para pedestres.",
+              "is_correct": false
+            },
+            {
+              "text": "Que os ciclistas devem ocupar todo o espaço.",
+              "is_correct": false
+            },
+            {
+              "text": "Que o trânsito é proibido para bicicletas.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-35",
+          "explanation": "A linha vertical indica a separação obrigatória entre pedestres e ciclistas."
         },
         {
           "title": "O que o condutor deve fazer ao ver essa placa?",
@@ -3024,7 +3117,16 @@
             {
               "text": "É passagem obrigatória para pedestres.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "R-29",
+          "explanation": "A faixa vermelha sobre o símbolo do pedestre indica proibição de circulação."
+        },
+        {
+          "title": "O que significa a placa acima?",
+          "difficulty": "Fácil",
+          "number": 127,
+          "answers": [
             {
               "text": "Que pode haver animais de grande porte atravessando a pista.",
               "is_correct": true
@@ -3044,12 +3146,6 @@
           ],
           "sign_code_ref": "A-35",
           "explanation": "A placa alerta sobre a presença de bois, vacas ou outros animais na pista."
-        },
-        {
-          "title": "O que significa a placa acima?",
-          "difficulty": "Fácil",
-          "number": 127,
-          "answers": []
         },
         {
           "title": "Onde é mais comum encontrar essa placa?",
@@ -3721,7 +3817,16 @@
             {
               "text": "Anunciar obra na pista.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "A-42c",
+          "explanation": "A sinalização prepara o condutor para a nova configuração da via."
+        },
+        {
+          "title": "Qual é a função principal da placa acima?",
+          "difficulty": "Fácil",
+          "number": 155,
+          "answers": [
             {
               "text": "Regular a velocidade máxima de segurança para o local.",
               "is_correct": true
@@ -3741,12 +3846,6 @@
           ],
           "sign_code_ref": "R-19",
           "explanation": "A placa R-19 busca compatibilizar segurança e fluidez do trânsito."
-        },
-        {
-          "title": "Qual é a função principal da placa acima?",
-          "difficulty": "Fácil",
-          "number": 155,
-          "answers": []
         },
         {
           "title": "Qual é a principal função da placa acima?",
@@ -3918,26 +4017,10 @@
             {
               "text": "Indicar pedágio.",
               "is_correct": false
-            },
-            {
-              "text": "Proteger ciclistas e garantir a convivência segura entre modais.",
-              "is_correct": true
-            },
-            {
-              "text": "Facilitar o tráfego de automóveis.",
-              "is_correct": false
-            },
-            {
-              "text": "Reservar estacionamento de motos.",
-              "is_correct": false
-            },
-            {
-              "text": "Evitar o uso de bicicletas.",
-              "is_correct": false
             }
           ],
-          "sign_code_ref": "R-34",
-          "explanation": "Promove segurança e incentivo ao transporte não motorizado."
+          "sign_code_ref": "R-24a",
+          "explanation": "Essa sinalização reduz riscos de colisões frontais e garante circulação ordenada."
         },
         {
           "title": "Qual o principal objetivo da placa acima?",
@@ -3959,7 +4042,16 @@
             {
               "text": "Indicar ponto turístico.",
               "is_correct": false
-            },
+            }
+          ],
+          "sign_code_ref": "R-32",
+          "explanation": "A prioridade ao transporte coletivo melhora a mobilidade urbana e reduz o congestionamento."
+        },
+        {
+          "title": "Qual o principal objetivo da placa acima?",
+          "difficulty": "Fácil",
+          "number": 164,
+          "answers": [
             {
               "text": "Garantir segurança e organização entre pedestres e ciclistas.",
               "is_correct": true
@@ -3979,12 +4071,6 @@
           ],
           "sign_code_ref": "R-35",
           "explanation": "A separação física e visual reduz riscos de atropelamento e colisão lateral."
-        },
-        {
-          "title": "Qual o principal objetivo da placa acima?",
-          "difficulty": "Fácil",
-          "number": 164,
-          "answers": []
         },
         {
           "title": "Qual o principal objetivo desta placa?",
@@ -5336,7 +5422,26 @@
           "title": "Qual o objetivo principal da placa acima?",
           "difficulty": "Intermediário",
           "number": 219,
-          "answers": []
+          "answers": [
+            {
+              "text": "Proteger ciclistas e garantir a convivência segura entre modais.",
+              "is_correct": true
+            },
+            {
+              "text": "Facilitar o tráfego de automóveis.",
+              "is_correct": false
+            },
+            {
+              "text": "Reservar estacionamento de motos.",
+              "is_correct": false
+            },
+            {
+              "text": "Evitar o uso de bicicletas.",
+              "is_correct": false
+            }
+          ],
+          "sign_code_ref": "R-34",
+          "explanation": "Promove segurança e incentivo ao transporte não motorizado."
         },
         {
           "title": "Qual o risco de desrespeitar a placa acima?",
@@ -10972,25 +11077,9 @@
             {
               "text": "Porque consome bateria do carro.",
               "is_correct": false
-            },
-            {
-              "text": "Porque tira a atenção e aumenta o risco de sinistros.",
-              "is_correct": true
-            },
-            {
-              "text": "Porque é feio.",
-              "is_correct": false
-            },
-            {
-              "text": "Porque atrapalha a buzina.",
-              "is_correct": false
-            },
-            {
-              "text": "Porque consome bateria do carro.",
-              "is_correct": false
             }
           ],
-          "explanation": "Conforme estabelece o Art. 252, Parágrafo único do CTB, manusear telefone celular enquanto"
+          "explanation": "Distração é causa frequente de atropelamentos."
         },
         {
           "title": "Por que o uso do celular ao volante é perigoso?",
@@ -11404,7 +11493,25 @@
           "title": "Por que não se deve usar o celular enquanto dirige?",
           "difficulty": "Intermediário",
           "number": 58,
-          "answers": []
+          "answers": [
+            {
+              "text": "Porque tira a atenção e aumenta o risco de sinistros.",
+              "is_correct": true
+            },
+            {
+              "text": "Porque é feio.",
+              "is_correct": false
+            },
+            {
+              "text": "Porque atrapalha a buzina.",
+              "is_correct": false
+            },
+            {
+              "text": "Porque consome bateria do carro.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Conforme estabelece o Art. 252, Parágrafo único do CTB, manusear telefone celular enquanto"
         },
         {
           "title": "Por que o uso do celular aumenta tanto o risco de sinistro?",
@@ -20479,25 +20586,9 @@
             {
               "text": "Porque evita gastar com manutenção.",
               "is_correct": false
-            },
-            {
-              "text": "Porque se você não vê ou não é visto, o risco de sinistro aumenta.",
-              "is_correct": true
-            },
-            {
-              "text": "Porque melhora apenas o conforto do motorista.",
-              "is_correct": false
-            },
-            {
-              "text": "Porque serve só para rodovias.",
-              "is_correct": false
-            },
-            {
-              "text": "Porque evita gastar com manutenção.",
-              "is_correct": false
             }
           ],
-          "explanation": "Uma atitude simples que evita sinistros de trânsito, ligar o sistema de iluminação do veículos"
+          "explanation": "Visibilidade mútua evita surpresas e previne sinistros."
         },
         {
           "title": "Por que a condução segura é também um ato social?",
@@ -22823,25 +22914,9 @@
             {
               "text": "Desviar pela faixa de ônibus.",
               "is_correct": false
-            },
-            {
-              "text": "Aguardar a liberação total da faixa antes de partir.",
-              "is_correct": true
-            },
-            {
-              "text": "Acelerar “no amarelo” para sair.",
-              "is_correct": false
-            },
-            {
-              "text": "Buzinar forte para “abrir caminho”.",
-              "is_correct": false
-            },
-            {
-              "text": "Desviar pela faixa de ônibus.",
-              "is_correct": false
             }
           ],
-          "explanation": "Conforme estabelece o Art. 70 do CTB, os pedestres que estiverem atravessando a via sobre as"
+          "explanation": "O condutor deve observar as preferências da via e deixar os pedestres terminarem a travessia."
         },
         {
           "title": "O condutor do veículo à frente está aprendendo a dirigir e hesita para sair",
@@ -22887,25 +22962,9 @@
             {
               "text": "É normal, acontece sempre.",
               "is_correct": false
-            },
-            {
-              "text": "Foi falta de atenção e respeito com usuário vulnerável.",
-              "is_correct": true
-            },
-            {
-              "text": "O ciclista devia desviar.",
-              "is_correct": false
-            },
-            {
-              "text": "Foi culpa do ciclista por andar muito perto.",
-              "is_correct": false
-            },
-            {
-              "text": "É normal, acontece sempre.",
-              "is_correct": false
             }
           ],
-          "explanation": "Conforme estabelece o Art. 49, Parágrafo único do CTB, os passageiros e condutores não"
+          "explanation": "O condutor deve estar sempre atento aos arredores."
         },
         {
           "title": "O que diz a ideia da Visão Zero?",
@@ -22927,25 +22986,9 @@
             {
               "text": "Só punir resolve.",
               "is_correct": false
-            },
-            {
-              "text": "Nenhuma morte no trânsito é aceitável.",
-              "is_correct": true
-            },
-            {
-              "text": "Alguns acidentes são inevitáveis.",
-              "is_correct": false
-            },
-            {
-              "text": "O pedestre é sempre culpado.",
-              "is_correct": false
-            },
-            {
-              "text": "Só punir resolve.",
-              "is_correct": false
             }
           ],
-          "explanation": "A Visão Zero (criada na Suécia e adotada por diversos países) baseia-se na ética de que a vida"
+          "explanation": "Toda vida perdida é inaceitável."
         },
         {
           "title": "O que é velocidade segura?",
@@ -23159,25 +23202,9 @@
             {
               "text": "Para disputar espaço com pedestres.",
               "is_correct": false
-            },
-            {
-              "text": "Para antecipar movimentos e evitar atropelamentos.",
-              "is_correct": true
-            },
-            {
-              "text": "Para mostrar “quem manda”.",
-              "is_correct": false
-            },
-            {
-              "text": "Para economizar tempo.",
-              "is_correct": false
-            },
-            {
-              "text": "Para disputar espaço com pedestres.",
-              "is_correct": false
             }
           ],
-          "explanation": "Conforme os princípios da Direção Defensiva, a aplicação da regra \"ver e ser visto\" nas"
+          "explanation": "Comunicação e previsibilidade salvam vidas."
         },
         {
           "title": "Por que o motorista deve cuidar dos mais frágeis?",
@@ -23535,25 +23562,9 @@
             {
               "text": "Fazer sinal com o farol.",
               "is_correct": false
-            },
-            {
-              "text": "Parar totalmente e esperar.",
-              "is_correct": true
-            },
-            {
-              "text": "Reduzir e buzinar.",
-              "is_correct": false
-            },
-            {
-              "text": "Passar devagar ao lado.",
-              "is_correct": false
-            },
-            {
-              "text": "Fazer sinal com o farol.",
-              "is_correct": false
             }
           ],
-          "explanation": "Conforme estabelece o Art. 70 do CTB, os pedestres que estiverem atravessando a via têm"
+          "explanation": "O condutor deve observar as preferências da via."
         },
         {
           "title": "Um pedestre começa a atravessar a faixa e o sinal abre para os carros",
@@ -23719,25 +23730,9 @@
             {
               "text": "Forçar a ultrapassagem pela direita.",
               "is_correct": false
-            },
-            {
-              "text": "Dar espaço, manter distância e aguardar a manobra.",
-              "is_correct": true
-            },
-            {
-              "text": "Fechar a frente para “passar primeiro”.",
-              "is_correct": false
-            },
-            {
-              "text": "Buzinar e colar na traseira.",
-              "is_correct": false
-            },
-            {
-              "text": "Forçar a ultrapassagem pela direita.",
-              "is_correct": false
             }
           ],
-          "explanation": "Veículos longos precisam de espaço para manobras. A Direção Defensiva exige que o motorista"
+          "explanation": "O bom convívio no trânsito é um dos elementos da direção segura."
         },
         {
           "title": "Você vê um idoso atravessando devagar a rua",
@@ -24175,13 +24170,49 @@
           "title": "Num cruzamento semaforizado, você percebe pedestres já iniciando a travessia no fim do",
           "difficulty": "Fácil",
           "number": 381,
-          "answers": []
+          "answers": [
+            {
+              "text": "Aguardar a liberação total da faixa antes de partir.",
+              "is_correct": true
+            },
+            {
+              "text": "Acelerar “no amarelo” para sair.",
+              "is_correct": false
+            },
+            {
+              "text": "Buzinar forte para “abrir caminho”.",
+              "is_correct": false
+            },
+            {
+              "text": "Desviar pela faixa de ônibus.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Conforme estabelece o Art. 70 do CTB, os pedestres que estiverem atravessando a via sobre as"
         },
         {
           "title": "O motorista abre a porta do carro sem olhar e derruba um ciclista",
           "difficulty": "Intermediário",
           "number": 382,
-          "answers": []
+          "answers": [
+            {
+              "text": "Foi falta de atenção e respeito com usuário vulnerável.",
+              "is_correct": true
+            },
+            {
+              "text": "O ciclista devia desviar.",
+              "is_correct": false
+            },
+            {
+              "text": "Foi culpa do ciclista por andar muito perto.",
+              "is_correct": false
+            },
+            {
+              "text": "É normal, acontece sempre.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Conforme estabelece o Art. 49, Parágrafo único do CTB, os passageiros e condutores não"
         },
         {
           "title": "O motorista deve proteger quem no trânsito?",
@@ -24211,7 +24242,25 @@
           "title": "O que diz a ideia da Visão Zero?",
           "difficulty": "Intermediário",
           "number": 384,
-          "answers": []
+          "answers": [
+            {
+              "text": "Nenhuma morte no trânsito é aceitável.",
+              "is_correct": true
+            },
+            {
+              "text": "Alguns acidentes são inevitáveis.",
+              "is_correct": false
+            },
+            {
+              "text": "O pedestre é sempre culpado.",
+              "is_correct": false
+            },
+            {
+              "text": "Só punir resolve.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "A Visão Zero (criada na Suécia e adotada por diversos países) baseia-se na ética de que a vida"
         },
         {
           "title": "Por que ficar muito próximo ao carro à frente é perigoso?",
@@ -24289,7 +24338,25 @@
           "title": "Por que o motorista deve ver e ser visto ao se aproximar de travessias?",
           "difficulty": "Intermediário",
           "number": 388,
-          "answers": []
+          "answers": [
+            {
+              "text": "Para antecipar movimentos e evitar atropelamentos.",
+              "is_correct": true
+            },
+            {
+              "text": "Para mostrar “quem manda”.",
+              "is_correct": false
+            },
+            {
+              "text": "Para economizar tempo.",
+              "is_correct": false
+            },
+            {
+              "text": "Para disputar espaço com pedestres.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Conforme os princípios da Direção Defensiva, a aplicação da regra \"ver e ser visto\" nas"
         },
         {
           "title": "Por que o PNATRANS é importante para o motorista comum?",
@@ -24679,7 +24746,25 @@
           "title": "Um motorista vê uma pessoa com deficiência atravessando",
           "difficulty": "Intermediário",
           "number": 405,
-          "answers": []
+          "answers": [
+            {
+              "text": "Parar totalmente e esperar.",
+              "is_correct": true
+            },
+            {
+              "text": "Reduzir e buzinar.",
+              "is_correct": false
+            },
+            {
+              "text": "Passar devagar ao lado.",
+              "is_correct": false
+            },
+            {
+              "text": "Fazer sinal com o farol.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Conforme estabelece o Art. 70 do CTB, os pedestres que estiverem atravessando a via têm"
         },
         {
           "title": "Você entra numa via, com muitos comércios e travessias",
@@ -24709,7 +24794,25 @@
           "title": "Você vê um caminhão manobrando numa esquina",
           "difficulty": "Intermediário",
           "number": 407,
-          "answers": []
+          "answers": [
+            {
+              "text": "Dar espaço, manter distância e aguardar a manobra.",
+              "is_correct": true
+            },
+            {
+              "text": "Fechar a frente para “passar primeiro”.",
+              "is_correct": false
+            },
+            {
+              "text": "Buzinar e colar na traseira.",
+              "is_correct": false
+            },
+            {
+              "text": "Forçar a ultrapassagem pela direita.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Veículos longos precisam de espaço para manobras. A Direção Defensiva exige que o motorista"
         },
         {
           "title": "Cenário: Você avista um carro parado no meio da pista após sofrer uma colisão",
@@ -29229,7 +29332,25 @@
           "title": "Por que ver e ser visto é essencial no trânsito?",
           "difficulty": "Fácil",
           "number": 21,
-          "answers": []
+          "answers": [
+            {
+              "text": "Porque se você não vê ou não é visto, o risco de sinistro aumenta.",
+              "is_correct": true
+            },
+            {
+              "text": "Porque melhora apenas o conforto do motorista.",
+              "is_correct": false
+            },
+            {
+              "text": "Porque serve só para rodovias.",
+              "is_correct": false
+            },
+            {
+              "text": "Porque evita gastar com manutenção.",
+              "is_correct": false
+            }
+          ],
+          "explanation": "Uma atitude simples que evita sinistros de trânsito, ligar o sistema de iluminação do veículos"
         },
         {
           "title": "Por que a palavra 'acidente' foi substituída por 'sinistro' no trânsito?",
