@@ -29,7 +29,8 @@ for line in extracted_txt:
     ## Número da questão: 1
 
     question_text = line[1:].strip()
-    question_title = question_text.split(".")[1].strip()
+    # Extrai o título da questão. O título é tudo após o número da questão. Considerando que podem haver pontos no título, pegamos tudo após o primeiro ponto.
+    question_title = question_text.split(".", 1)[1].strip()
     question_difficulty = question_text.split(")")[0].strip(" (")
     question_number = int(question_text.split(".")[0].split(" ")[-1])
     # questions_length = len(questions["modules"][module_number]["questions"])
