@@ -28,4 +28,4 @@ Apesar de pública, as questões do Banco Nacional de Questões não estão faci
 
 ## Problemas conhecidos
 
-- A extração de texto pode não ser perfeita devido à formatação do PDF original. Há questões e comentários que utilizam duas ou mais linhas, o que pode causar problemas na extração. O código atual não lida com esses casos.
+- A extração de texto pode não ser perfeita devido à formatação do PDF original. Há questões e comentários que utilizam duas ou mais linhas, o que pode causar problemas na extração. ~~O código atual não lida com esses casos.~~ Está implementado no código uma lógica para gerenciamento de casos de quebra de linha, que pode não funcionar corretamente.
